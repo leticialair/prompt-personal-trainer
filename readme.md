@@ -121,3 +121,5 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+O resultado pode ser acessado no link abaixo:
+https://chatgpt.com/share/672fbd76-9dec-800d-9a17-70a1e529175c
